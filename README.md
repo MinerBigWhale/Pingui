@@ -1,2 +1,2 @@
-# ![manchot](https://user-images.githubusercontent.com/3715525/175104254-9d5029d5-8f84-4f32-9687-c6386fa7c240.png) Pingui
+# ![Manchot](https://user-images.githubusercontent.com/3715525/175105530-ee075e97-8d8b-4e6c-b1ac-b72af413a11c.png) Pingui
 A simple ping and traceroute ploting program
